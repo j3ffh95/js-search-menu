@@ -20,3 +20,9 @@ body {
 .left h2 {
   padding-left: 8px;
 }
+
+/* Right column (page content) */
+.right {
+  flex: 65%;
+  padding: 15px;
+}
